@@ -1,0 +1,9 @@
+[submodule "libssh2"]
+	path = libssh2
+	url = https://github.com/sithembiso/libssh2.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/sithembiso/openssl.git
+[submodule "http-parser"]
+	path = http-parser
+	url = https://github.com/sithembiso/http-parser.git
